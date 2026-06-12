@@ -1,2 +1,2 @@
 # Fuzzy-Logic-Diabetes
-TUBES ALPRO BAYU DAN TEDY DAN IKRAM
+Tugas Besar Dasar Kecerdasan Artifisial
